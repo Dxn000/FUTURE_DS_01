@@ -8,7 +8,7 @@ Intern: Dixon Benoy  Task 1: Superstore sales Dashboard
 # Task Objective
 Analyze e-commerce sales data to uncover:
 
-🛒 Best-selling products
-📅 Monthly sales trends
-🧱 Category & region performance
-📈 Key revenue insights for business decisions
+-🛒 Best-selling products
+-📅 Monthly sales trends
+-🧱 Category & region performance
+-📈 Key revenue insights for business decisions
