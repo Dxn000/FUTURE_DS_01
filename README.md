@@ -5,7 +5,7 @@ Internship Track: Data Science & Analytics <br>
 Organization: Future Interns <br>
 Intern: Dixon Benoy  Task 1: Superstore sales Dashboard
 
-#📌 Task Objective
+# Task Objective
 Analyze e-commerce sales data to uncover:
 
 🛒 Best-selling products
